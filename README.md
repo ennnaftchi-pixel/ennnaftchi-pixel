@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="BANNER.png" alt="Mohamed Nafti Banner" width="100%" />
+  <img src="BANNER.jpg" alt="Mohamed Nafti Banner" width="100%" />
 
   <br/>
 
