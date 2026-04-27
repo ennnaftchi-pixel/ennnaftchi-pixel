@@ -3,89 +3,84 @@
 
   <br/>
 
-  <p align="center">
-    <code><b>Software Engineering with a Security Mindset</b></code><br/>
-    <code><b>CS @ ISI Ariana | Linux & DevSecOps Enthusiast | Python • C++</b></code>
-  </p>
+  <code><b>SYSTEM STATUS:</b> ONLINE</code> &nbsp; | &nbsp; 
+  <code><b>FOCUS:</b> SYSTEMS_SECURITY</code> &nbsp; | &nbsp; 
+  <code><b>LOCATION:</b> TUNIS_TN</code>
 
-  <img src="https://img.shields.io/badge/CTF_Handle-Ennnaftchi-99ff33?style=for-the-badge&logo=target&logoColor=0D1117&labelColor=161B22" />
-  <img src="https://img.shields.io/badge/Location-Tunis-99ff33?style=for-the-badge&logo=linux-foundation&logoColor=0D1117&labelColor=161B22" />
+  <br/><br/>
+  
+  <h1>Mohamed Nafti</h1>
+  <p><i>Software Engineering with a Security Mindset</i></p>
 </div>
 
-<br/>
+<hr border="1">
 
-<table border="0">
+<table border="0" cellpadding="10">
   <tr>
-    <td width="55%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="22" /> The "Why" Behind the Code</h3>
-      <p>I don’t just want to build software; I want to build software that can <b>survive an attack</b>. My perspective is a hybrid of two worlds:</p>
-      <ul>
-        <li><b>The Developer:</b> Building efficient, scalable systems.</li>
-        <li><b>The Adversary:</b> Thinking like an attacker to harden Linux systems and implement DevSecOps early in the lifecycle.</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h4>[01] THE PERSPECTIVE</h4>
+      <p>I specialize in understanding the <b>"why"</b> behind the code. My work exists at the intersection of high-performance development and offensive security.</p>
+      <p>I build efficient, scalable systems in <b>C++ and Python</b>, then apply an adversary's mindset to harden them against modern threat vectors.</p>
     </td>
-    <td width="45%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" /> Core Focus</h3>
-      <p>
-        ▶ <b>Systems:</b> Low-level (C/C++), Linux Internals<br/>
-        ▶ <b>Security:</b> System Hardening, CTFs, VAPT<br/>
-        ▶ <b>DevSecOps:</b> Automation, CI/CD, Infrastructure
-      </p>
+    <td width="50%" valign="top">
+      <h4>[02] TECHNICAL FOCUS</h4>
+      <ul>
+        <li><b>Systems:</b> Linux Internals, Low-level (C/C++)</li>
+        <li><b>Security:</b> System Hardening, VAPT, CTF Research</li>
+        <li><b>Infrastructure:</b> DevSecOps, KVM/QEMU, Automation</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="22" /> Hard Skills</h3>
-<p align="left">
+<div align="center">
+  <kbd><b>TECHNICAL STACK</b></kbd>
+  <br/><br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,linux,git,docker,mysql,networking,nmap,powershell,vim&theme=dark" />
   </a>
-</p>
+</div>
 
-<br/>
+<br/><br/>
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ennnaftchi-pixel&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&title_color=99ff33&icon_color=99ff33&text_color=FFFFFF&hide_border=false" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennnaftchi-pixel&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&title_color=99ff33&icon_color=99ff33&text_color=FFFFFF" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20File%20Box.png" width="22" /> Featured Operations</h3>
 <div align="center">
-  <a href="https://github.com/ennnaftchi-pixel/linux-hardening-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ennnaftchi-pixel&repo=linux-hardening-lab&theme=dark&bg_color=0D1117&border_color=99ff33&title_color=99ff33&icon_color=99ff33" />
-  </a>
-  <a href="https://github.com/ennnaftchi-pixel/simplified-social-network-c">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ennnaftchi-pixel&repo=simplified-social-network-c&theme=dark&bg_color=0D1117&border_color=30363D&title_color=99ff33&icon_color=99ff33" />
-  </a>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ennnaftchi-pixel&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&title_color=99ff33&icon_color=99ff33&text_color=c9d1d9&hide_border=false" height="170px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennnaftchi-pixel&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&title_color=99ff33&icon_color=99ff33&text_color=c9d1d9" height="170px" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<table border="0">
+<hr border="1">
+
+<table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22" /> Recent Activity</h3>
-      <code>> [SYS] scanning_logs...</code><br/>
-      <code>> [OK] contribution_stream_active</code><br/>
-      <br/>
+      <h4>[03] RECENT OPERATIONS</h4>
+      <code>> Scanning local git logs...</code><br/>
+      <code>> [LOG] System hardening lab initiated</code><br/>
+      <code>> [LOG] Security research in progress</code>
       </td>
-    <td width="40%" valign="center">
+    <td width="40%" valign="center" align="right">
       <br/>
-      <blockquote align="left">
-        <b>"The best way to predict the future is to implement it."</b><br/>
-        <br/>
-        — <i>Alan Kay</i>
-      </blockquote>
+      <a href="https://linkedin.com/in/ennnaftchi">
+        <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=99ff33&labelColor=161B22" />
+      </a><br/>
+      <a href="mailto:ennnaftchi@gmail.com">
+        <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=99ff33&labelColor=161B22" />
+      </a><br/>
+      <a href="https://codeforces.com/profile/Ennnaftchi">
+        <img src="https://img.shields.io/badge/Codeforces-121212?style=for-the-badge&logo=codeforces&logoColor=99ff33&labelColor=161B22" />
+      </a>
     </td>
   </tr>
 </table>
@@ -93,13 +88,5 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/ennnaftchi">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=99ff33&labelColor=161B22&border=99ff33" />
-  </a>
-  <a href="mailto:ennnaftchi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=99ff33&labelColor=161B22" />
-  </a>
-  <a href="https://codeforces.com/profile/Ennnaftchi">
-    <img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=99ff33&labelColor=161B22" />
-  </a>
+  <blockquote>"The best way to predict the future is to implement it." — Alan Kay</blockquote>
 </div>
