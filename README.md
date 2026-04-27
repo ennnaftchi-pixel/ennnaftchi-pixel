@@ -11,40 +11,36 @@
 
   <h1>Mohamed Nafti</h1>
   <p><i>Software Engineering with a Security Mindset</i></p>
-</div>
 
-<hr />
+  <br/>
 
-<table border="0" width="100%" cellpadding="10">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>ABOUT ME</h3>
-      <p><b>I break stuff. And I occasionally write about it.</b></p>
-      <p>I am a Computer Science student at ISI Ariana with a specific obsession: understanding the <b>"why"</b> behind the code. I build software designed to survive an attack.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>WHAT I FOCUS ON</h3>
-      <ul>
-        <li><b>Systems:</b> Low-level (C/C++), Linux Internals</li>
-        <li><b>Security:</b> System Hardening, VAPT, CTF Research</li>
-        <li><b>Automation:</b> DevSecOps, KVM/QEMU, Infrastructure</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+  <h3>"I break stuff. And I occasionally write about it."</h3>
+  <p align="center">
+    I am a CS student at ISI Ariana obsessed with the <b>"why"</b> behind the code.<br/>
+    I don’t just build software; I build software that can <b>survive an attack</b>.
+  </p>
 
-<br/>
+  <br/>
 
-<div align="center">
+  <table border="0">
+    <tr>
+      <td align="left">
+        <b>[01] SYSTEMS:</b> Linux Internals, Low-level (C/C++)<br/>
+        <b>[02] SECURITY:</b> System Hardening, VAPT, CTF Research<br/>
+        <b>[03] INFRA:</b> DevSecOps, KVM/QEMU, Automation
+      </td>
+    </tr>
+  </table>
+
+  <br/><br/>
+
   <h3>TECH STACK</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,linux,git,docker,mysql,networking,nmap,powershell,vim&perline=12" />
   </a>
-</div>
 
-<br/><br/>
+  <br/><br/><br/>
 
-<div align="center">
   <table border="0">
     <tr>
       <td>
@@ -55,36 +51,32 @@
       </td>
     </tr>
   </table>
-</div>
 
-<br/><br/>
+  <br/><br/>
 
-<table border="0" width="100%" cellpadding="10">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>RECENT OPERATIONS</h3>
-      <code>> Scanning local git logs...</code><br/>
-      <code>> [LOG] Security research in progress</code><br/>
-      <code>> [LOG] System hardening lab initiated</code>
-    </td>
-    <td width="35%" valign="top" align="right">
-      <h3>CONNECT_</h3>
-      <a href="https://linkedin.com/in/ennnaftchi">
-        <b>LINKEDIN</b>
-      </a><br/>
-      <a href="mailto:ennnaftchi@gmail.com">
-        <b>EMAIL_ADR</b>
-      </a><br/>
-      <a href="https://codeforces.com/profile/Ennnaftchi">
-        <b>CODEFORCES</b>
-      </a>
-    </td>
-  </tr>
-</table>
+  <h3>RECENT OPERATIONS</h3>
+  <p align="center">
+    <code>> [LOG] Security research in progress</code><br/>
+    <code>> [LOG] System hardening lab initiated</code>
+  </p>
 
-<br/>
+  <br/>
 
-<div align="center">
-  <hr />
-  <p>"The best way to predict the future is to implement it." — Alan Kay</p>
+  <h3>CONNECT_</h3>
+  <p align="center">
+    <a href="https://linkedin.com/in/ennnaftchi">
+      <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=99ff33&style=for-the-badge&logo=linkedin&logoColor=0D1117" />
+    </a>
+    <a href="mailto:ennnaftchi@gmail.com">
+      <img src="https://img.shields.io/static/v1?label=&message=Email&color=99ff33&style=for-the-badge&logo=gmail&logoColor=0D1117" />
+    </a>
+    <a href="https://codeforces.com/profile/Ennnaftchi">
+      <img src="https://img.shields.io/static/v1?label=&message=Codeforces&color=99ff33&style=for-the-badge&logo=codeforces&logoColor=0D1117" />
+    </a>
+  </p>
+
+  <br/><br/>
+  
+  <hr width="50%" />
+  <p><i>"The best way to predict the future is to implement it." — Alan Kay</i></p>
 </div>
