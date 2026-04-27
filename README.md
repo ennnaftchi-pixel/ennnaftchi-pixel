@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="BANNER.jpg" alt="Mohamed Nafti Banner" width="100%" />
+  <img src="BANNER.png" alt="Mohamed Nafti Banner" width="100%" />
 
   <br/>
 
@@ -20,14 +20,14 @@
     <td width="50%" valign="top">
       <h3>ABOUT ME</h3>
       <p><b>I break stuff. And I occasionally write about it.</b></p>
-      <p>I am a Computer Science student at ISI Ariana with a specific obsession: understanding the "why" behind the code. I don’t just want to build software; I want to build software that can survive an attack.</p>
+      <p>I am a Computer Science student at ISI Ariana with a specific obsession: understanding the <b>"why"</b> behind the code. I build software designed to survive an attack.</p>
     </td>
     <td width="50%" valign="top">
       <h3>WHAT I FOCUS ON</h3>
       <ul>
-        <li><b>Systems:</b> Linux Internals, Low-level (C/C++)</li>
+        <li><b>Systems:</b> Low-level (C/C++), Linux Internals</li>
         <li><b>Security:</b> System Hardening, VAPT, CTF Research</li>
-        <li><b>Infra:</b> DevSecOps, KVM/QEMU, Automation</li>
+        <li><b>Automation:</b> DevSecOps, KVM/QEMU, Infrastructure</li>
       </ul>
     </td>
   </tr>
@@ -61,22 +61,22 @@
 
 <table border="0" width="100%" cellpadding="10">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <h3>RECENT OPERATIONS</h3>
       <code>> Scanning local git logs...</code><br/>
       <code>> [LOG] Security research in progress</code><br/>
       <code>> [LOG] System hardening lab initiated</code>
     </td>
-    <td width="40%" valign="top" align="right">
+    <td width="35%" valign="top" align="right">
       <h3>CONNECT_</h3>
       <a href="https://linkedin.com/in/ennnaftchi">
-        <img src="https://img.shields.io/badge/LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=99ff33" />
+        <b>LINKEDIN</b>
       </a><br/>
       <a href="mailto:ennnaftchi@gmail.com">
-        <img src="https://img.shields.io/badge/Email-121212?style=flat-square&logo=gmail&logoColor=99ff33" />
+        <b>EMAIL_ADR</b>
       </a><br/>
       <a href="https://codeforces.com/profile/Ennnaftchi">
-        <img src="https://img.shields.io/badge/Codeforces-121212?style=flat-square&logo=codeforces&logoColor=99ff33" />
+        <b>CODEFORCES</b>
       </a>
     </td>
   </tr>
