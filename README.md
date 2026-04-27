@@ -1,32 +1,29 @@
 <div align="center">
-  <img src="BANNER.jpg" alt="Mohamed Nafti Banner" width="100%" />
+  <img src="BANNER.jpg" alt="Mohamed Nafti Banner" width="100%" style="border-radius: 8px;" />
 
-  <br/>
+  <br/><br/>
 
-  <code><b>SYSTEM_STATUS:</b> OPERATIONAL</code> &nbsp; | &nbsp; 
-  <code><b>FOCUS:</b> SYSTEMS_SECURITY</code> &nbsp; | &nbsp; 
-  <code><b>LOCATION:</b> TUNIS_TN</code>
+  <p>
+    <code><b>STATUS:</b> OPERATIONAL</code>  |  
+    <code><b>ROLE:</b> SYSTEMS & SECURITY</code>  |  
+    <code><b>LOC:</b> TUNIS, TN</code>
+  </p>
 </div>
 
 <br/>
 
-<table border="0" width="100%" cellpadding="10">
-  <tr>
-    <td width="50%" valign="top">
-      <h3> [01] THE PERSPECTIVE</h3>
-      <p><b>"I break stuff. And I occasionally write about it."</b></p>
-      <p>I am a CS student at ISI Ariana obsessed with the <b>"why"</b> behind the code. I don’t just build software; I build software designed to <b>survive an attack</b>.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3> [02] TECHNICAL FOCUS</h3>
-      <p>
-        ▶ <b>Systems:</b> Low-level (C/C++), Linux Internals<br/>
-        ▶ <b>Security:</b> System Hardening, VAPT, CTF Research<br/>
-        ▶ <b>Infra:</b> DevSecOps, KVM/QEMU, Automation
-      </p>
-    </td>
-  </tr>
-</table>
+### 🕵️‍♂️ [01] THE PERSPECTIVE
+> **"Building resilient software by understanding exactly how it breaks."**
+
+I am a Computer Science student at ISI Ariana obsessed with the **"why"** behind the code. I don’t just build software; I engineer systems designed to **survive hostile environments**. My focus bridges the gap between low-level architecture and offensive security.
+
+<br/>
+
+### ⚙️ [02] TECHNICAL ARSENAL
+
+* **Systems & Low-Level:** C/C++ • Linux Internals • OS Architecture
+* **Security & Research:** System Hardening • VAPT • CTF Research
+* **Infrastructure:** DevSecOps • KVM/QEMU • Automation
 
 <br/>
 
@@ -34,53 +31,45 @@
   <kbd><b>CORE TECH STACK</b></kbd>
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,linux,git,docker,mysql,networking,nmap,powershell,vim&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,linux,git,docker,mysql,networking,nmap,powershell,vim&perline=12" alt="Tech Stack" />
   </a>
 </div>
 
 <br/><br/>
 
+### 📊 [03] SYSTEM TELEMETRY
+
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ennnaftchi-pixel&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&title_color=99ff33&icon_color=99ff33&text_color=c9d1d9" height="170px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennnaftchi-pixel&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&title_color=99ff33&icon_color=99ff33&text_color=c9d1d9" height="170px" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/ennnaftchi-pixel">
+    <img src="https://github-readme-stats.vercel.app/api?username=ennnaftchi-pixel&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&title_color=99ff33&icon_color=99ff33&text_color=c9d1d9" height="170px" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ennnaftchi-pixel">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ennnaftchi-pixel&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&title_color=99ff33&icon_color=99ff33&text_color=c9d1d9" height="170px" alt="Top Languages" />
+  </a>
 </div>
 
 <br/><br/>
 
-<table border="0" width="100%" cellpadding="10">
-  <tr>
-    <td width="50%" valign="top">
-      <h3> [03] RECENT OPERATIONS</h3>
-      <code>> [LOG] Security research in progress</code><br/>
-      <code>> [LOG] System hardening lab initiated</code>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>CONNECT_</h3>
-      <a href="https://linkedin.com/in/ennnaftchi">
-        <img src="https://img.shields.io/badge/LinkedIn-99ff33?style=flat-square&logo=linkedin&logoColor=0D1117" />
-      </a>
-      &nbsp;
-      <a href="mailto:ennnaftchi@gmail.com">
-        <img src="https://img.shields.io/badge/Email-99ff33?style=flat-square&logo=gmail&logoColor=0D1117" />
-      </a>
-      &nbsp;
-      <a href="https://codeforces.com/profile/Ennnaftchi">
-        <img src="https://img.shields.io/badge/Codeforces-99ff33?style=flat-square&logo=codeforces&logoColor=0D1117" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 📡 [04] SECURE COMMS
 
 <div align="center">
-  <br/>
-  <hr width="100%" />
+  <code>> [LOG] Security research in progress... Open to new opportunities.</code>
+  <br/><br/>
+  <a href="https://linkedin.com/in/ennnaftchi">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=99ff33&border=1" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ennnaftchi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=99ff33&border=1" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Ennnaftchi">
+    <img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=99ff33&border=1" alt="Codeforces" />
+  </a>
+</div>
+
+<br/>
+<hr/>
+<div align="center">
   <p><i>"The best way to predict the future is to implement it." — Alan Kay</i></p>
 </div>
