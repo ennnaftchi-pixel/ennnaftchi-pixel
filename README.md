@@ -64,9 +64,3 @@ I am currently building projects that move from simple scripts to full backend s
 - System automation tools
 - Linux-based development environments
 - Deployment using containers
-
-## Links
-
-- LinkedIn: https://linkedin.com/in/ennnaftchi
-- Codeforces: https://codeforces.com/profile/Ennnaftchi
-- GitHub: https://github.com/ennnaftchi-pixel
