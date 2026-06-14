@@ -1,49 +1,72 @@
 # Mohamed Nafti
 
-Computer Science student at ISI Ariana.
+Computer Science student at ISI Ariana (Tunisia).
 
-I am interested in how software systems are designed and how they behave across different layers — from application logic to operating systems, networking, and deployment environments.
+I am focused on backend software engineering with a strong interest in Linux systems and infrastructure fundamentals.
 
-My current focus is on strengthening my foundations in software engineering and systems, with an emphasis on writing clean, maintainable, and practical code.
+My goal is to build the ability to design, implement, and deploy reliable backend systems using industry-standard tools and practices.
 
----
+## What I Focus On
 
-## Focus Areas
+Backend development:
+- Designing REST APIs
+- Implementing business logic
+- Structuring scalable backend applications
+- Working with relational databases
 
-- Backend development
-- Linux systems and administration
-- Databases and data modeling
-- Software engineering fundamentals
-- Automation and scripting
-- Basic infrastructure concepts (containers, CI/CD)
+Software engineering fundamentals:
+- Writing clean and maintainable code
+- Debugging and problem solving
+- Understanding system behavior beyond application code
+- Applying basic design principles
 
----
+Linux and systems:
+- Working comfortably in Linux environments
+- Process, file system, and networking basics
+- Using the terminal as a primary development tool
 
-## Languages & Tools
+Databases:
+- SQL design and queries
+- Schema design and normalization
+- Basic performance awareness
 
-- Java
-- Python
-- C
-- SQL
-- Bash
-- Git
-- Linux
-
----
-
-## Learning
-
-- Spring Boot
-- Docker
+Basic infrastructure concepts:
+- Containers (Docker)
 - CI/CD pipelines
-- Cloud fundamentals
-- System design basics
+- Application deployment concepts
 
----
+## Core Skills
+
+- Java (primary backend language)
+- Spring Boot (backend framework)
+- SQL (PostgreSQL / MySQL level)
+- Python (automation and scripting)
+- C (systems fundamentals)
+- Bash (Linux scripting)
+- Git (version control)
+- Linux (daily development environment)
+
+## Currently Learning
+
+- Spring Boot (production backend development)
+- REST API architecture best practices
+- Docker and containerization
+- CI/CD workflows (GitHub Actions / GitLab CI)
+- System design fundamentals (scalability basics)
+- Database optimization basics
+
+## Direction
+
+I am currently building projects that move from simple scripts to full backend systems, with a focus on:
+
+- Backend APIs connected to databases
+- Authentication and role-based access control
+- System automation tools
+- Linux-based development environments
+- Deployment using containers
 
 ## Links
 
 - LinkedIn: https://linkedin.com/in/ennnaftchi
 - Codeforces: https://codeforces.com/profile/Ennnaftchi
-
----
+- GitHub: https://github.com/ennnaftchi-pixel
