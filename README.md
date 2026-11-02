@@ -1,13 +1,21 @@
-# root@ennnaftchi:~# 你好 🐧
+# Ennnaftchi
 
-Computer Science student at ISI Ariana, UTM, Tunisia.
+<p align="center">
+  <img src="assets/HTTP201.jpg" width="480" alt="We are made of stardust">
+</p>
 
-Interested in technology, systems, and the ways different fields come together to solve real-world problems.
+<br>
 
-Exploring and building across full-stack software engineering, data, AI, cloud infrastructure, cybersecurity, IoT, and systems automation.
+Computer Science student at **ISI · UTM · Tunisia**.
 
-I enjoy understanding how technologies work, designing solutions, connecting systems, and turning ideas into practical implementations.
+Interested in technology and the possibilities it creates. Exploring the intersections of software, artificial intelligence, data, cloud computing, cybersecurity and connected systems.
+
+I enjoy understanding how things work, connecting ideas, and building solutions that solve real-world problems.
+
+I believe good technology starts with curiosity, thoughtful problem-solving, and the willingness to keep exploring.
 
 Currently learning through hands-on projects, technical experimentation, open-source exploration, R&D, and CTFs.
 
 🚩 **CTF Handle:** `@Ennnaftchi`
+
+<br>
