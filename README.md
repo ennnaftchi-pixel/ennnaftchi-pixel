@@ -1,7 +1,7 @@
 # Ennnaftchi
 
 <p align="center">
-  <img src="assets/HTTP201.jpg" width="480" alt="We are made of stardust">
+  <img src="HTTP201.jpg" width="480" alt="We are made of stardust">
 </p>
 
 <br>
