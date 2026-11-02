@@ -11,6 +11,6 @@ Computer Science student at **ISI · UTM · Tunisia**. Interested in technology 
 Exploring the intersections of software, artificial intelligence, data, cloud computing, cybersecurity and connected systems.
 
 Currently learning through hands-on projects, technical experimentation, open-source exploration, R&D, and CTFs.
-🚩 **CTF Handle:** `@Ennnaftchi`
+**CTF Handle:** `@Ennnaftchi`
 
 <br>
