@@ -6,7 +6,7 @@
 
 <br>
 
-### root@ennnaftchi:~# 你好 🐧
+### root@ennnaftchi:~# 你好 📬
 
 Computer Science student @ ISI Ariana, UTM, Tunisia. Focused on Security Engineering, DevSecOps, and Systems Automation.
 
