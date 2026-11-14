@@ -12,13 +12,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ennnaftchi">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" height="22" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:ennnaftchi@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" height="22" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/ennnaftchi-pixel">
-    <img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="22" height="22" alt="GitHub" />
   </a>
 </p>
 
