@@ -32,8 +32,4 @@ Currently learning through hands-on projects, technical experimentation, open-so
 
 **CTF Handle:** `@Ennnaftchi`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ennnaftchi-pixel&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true" height="165" />
-</p>
-
 <br>
