@@ -1,7 +1,7 @@
 # Mohamed Nafti
 
 <p align="center">
-  <img src="HTTP201.jpg" width="480" alt="We are made of stardust">
+  <img src="snorlax.gif" width="480" alt="We are made of stardust">
 </p>
 
 <br>
