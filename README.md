@@ -26,7 +26,7 @@
 
 ### root@ennnaftchi:~# 你好 📬
 
-Computer Science student @ ISI, UTM, Tunisia. Focused on Security Engineering, DevSecOps, and Systems Automation.
+Computer Science student @ ISI, UTM, Tunisia. Focused on Linux systems, practical security, and automation scripts.
 
 Currently learning through hands-on projects, technical experimentation, open-source exploration, R&D, and CTFs.
 
